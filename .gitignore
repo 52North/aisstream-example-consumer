@@ -1,0 +1,5 @@
+.env
+ais_env
+ais_data.json
+ais_data.json_bbox.json
+**/__pycache__
